@@ -1,7 +1,7 @@
 variable "server_public_key" {}
 
 variable "instance_count" {
-  default = 3
+  default = 4
   type    = number
 }
 
